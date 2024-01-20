@@ -4,7 +4,7 @@ This web app allows you to search and view GitHub user profiles easily. It's bui
 
 ## Demo
 
-[Live Demo](#)
+[Live Demo](https://vaibhavdeshmukh12.github.io/Github-Profile-finder/)
 
 ## Features
 
